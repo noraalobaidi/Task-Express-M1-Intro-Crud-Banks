@@ -22,3 +22,6 @@ In this task, you will create a banking API with the basic `CRUD` operations.
 You have learned about route params, but there's also something called query params.
 
 - On the route you created in the previous challenge, add a query param that retrieves the account info and funds in USD.
+
+Your URL should look like:
+`localhost:8000/accounts/Omar?currency=usd`
